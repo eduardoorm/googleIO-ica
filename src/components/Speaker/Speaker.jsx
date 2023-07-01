@@ -2,6 +2,8 @@ import React from "react";
 import "./Speaker.css";
 import CardSpeaker from "./CardSpeaker";
 import imgPierre from "../../assets/speakers/pierreGuillen.jpg";
+
+
 const Speaker = () => {
   return (
     <section id="speaker">

@@ -31,7 +31,7 @@ const Carousel = () => {
 
           <ItemCarousel
             image = {speakerLeonidas}
-            color={"#81bced"}
+            color={"#fffbf0"}
             txtComment={"'Es una experiencia única llena de aprendizaje'"}
             name={"Leonidas Esteban"}
             rol={"Google Developer Expert"}
@@ -39,7 +39,7 @@ const Carousel = () => {
 
           <ItemCarousel
             image = {speakerPierre}
-            color={"#81bced"}
+            color={"#f2f9f4"}
             txtComment={"'Aprendamos a construir una app móvil'"}
             name={"Pierre Guillen"}
             rol={"Google Developer Expert"}
@@ -47,7 +47,7 @@ const Carousel = () => {
 
           <ItemCarousel
             image = {speakerMidu}
-            color={"#81bced"}
+            color={"#fffbf9"}
             txtComment={
               "'Es una excelente oportunidad para expandir nuestros conocimientos'"
             }

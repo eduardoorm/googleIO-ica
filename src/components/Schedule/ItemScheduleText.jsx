@@ -12,7 +12,6 @@ const ItemScheduleText = ({ hours, dateSession, titleSession, backgroundSolid,ba
       <div style={{backgroundColor:backgroundLight ,borderLeftColor:backgroundSolid}} className="sessionInformationItemSchedule">
         <p className="titleSessionItemSchedule">
           {titleSession} <br />
-          <span className="nameSpeakerItemSchedule">Pierre Guillen</span>
         </p>
       </div>
     </div>

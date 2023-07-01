@@ -10,20 +10,20 @@ export const Registration = () => {
             <p>¿Qué esperas?</p>
             <p className="txtInscribete">INSCRÍBETE</p>
           </div>
-          <a
-            href="https://gdg.community.dev/events/details/google-gdg-ica-presents-flutter-school-2023/"
-            target="_blank"
-          >
-            <button className="button btnRegistration">¡Regístrate!</button>
-          </a>
-          <br />
-          <a href="#">
-            <button className="button btnCodeConduct">
-              Código de Conducta
-            </button>
-          </a>
-          <br></br>
-          <img src={logo} className="imgRegistration aos-init aos-animate"  data-aos="zoom-in"/>
+          <div className="containerButtons">
+            <a
+              href="https://gdg.community.dev/e/mwg6gb/"
+              target="_blank"
+            >
+              <button className="button btnRegistration">¡Regístrate!</button>
+            </a>
+            <br />
+            <a href="#">
+              <button className="button btnCodeConduct">
+                Código de Conducta
+              </button>
+            </a>
+          </div>
         </div>
       </div>
     </section>

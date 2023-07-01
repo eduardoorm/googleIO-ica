@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <div className="containerMain">
       <p className="tituloContainerMain">
-        FLUTTER SCHOOL<p className="anioContainerMain">2023</p>
+        Google IO Extended<p className="anioContainerMain">Ica</p>
       </p>
       <a target="_blank" href="https://gdg.community.dev/events/details/google-gdg-ica-presents-flutter-school-2023/">
         <button className="button btnInscribirse">¡Inscribirse!</button>

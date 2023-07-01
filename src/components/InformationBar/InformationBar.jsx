@@ -7,40 +7,40 @@ const InformationBar = () => {
       <div className="containerInformation">
         <div className="containerInformationBar">
           <ItemInformationBar
-            backgroundColor="#66b2f0"
+            backgroundColor="#1B6EF3"
             textInformation={"Construye una app desde Cero"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"rgba(24, 24, 24, 0.939)"}
-            textInformation={"#FlutterSchoolIca"}
+            backgroundColor={"#F09D00"}
+            textInformation={"#GoogleIO2023Ica"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"#66b2f0"}
+            backgroundColor={"#DC362E"}
             textInformation={"Conecta con desarolladores locales"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"rgba(24, 24, 24, 0.939)"}
+            backgroundColor={"#202124"}
             textInformation={" Obten un certificado al finalizar"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"#66b2f0"}
-            textInformation={"Muchas sorpresas durante el curso"}
+            backgroundColor={"#1B6EF3"}
+            textInformation={"Muchas sorpresas durante el evento"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"rgba(24, 24, 24, 0.939)"}
+            backgroundColor={"#F09D00"}
             textInformation={"Descubre el desarrollo móvil"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"#66b2f0"}
-            textInformation={"Construye una app desde Cero"}
+            backgroundColor={"#DC362E"}
+            textInformation={"#GoogleIO2023Ica"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"rgba(24, 24, 24, 0.939)"}
-            textInformation={"#FlutterSchoolIca"}
+            backgroundColor={"#1B6EF3"}
+            textInformation={"Inicia en el desarrollo web"}
           ></ItemInformationBar>
           <ItemInformationBar
-            backgroundColor={"#66b2f0"}
-            textInformation={"Conecta con desarolladores locales"}
+            backgroundColor={"#DC362E"}
+            textInformation={"Aprende sobre Inteligencia Artificial"}
           ></ItemInformationBar>
         </div>
       </div>
