@@ -1,0 +1,36 @@
+.tituloContainerMain{
+    font-size: 3.3em;
+    font-weight: 700;
+    line-height: 0.4;
+    color: rgb(31, 31, 31);
+}
+
+.btnInscribirse{
+    background-color: #1E2A6B;
+    color:white;
+}
+.btnInscribirse:hover{
+    background-color: #1e2a6bb8;
+
+}
+
+@media screen and (max-width: 1210px) {
+    .tituloContainerMain{
+        text-align: center;
+        line-height: 1em;
+        display: hidden;
+    }
+    .anioContainerMain{
+        display: none;
+    }
+    .btnInscribirse{
+        display: block;
+        margin: 540px auto;
+        width: 60%;
+    }
+    .containerMain{
+        padding-left: 0;
+        margin: auto;
+    }
+  }
+

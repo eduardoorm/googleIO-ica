@@ -1,0 +1,26 @@
+.sectionSpeaker{
+    background-color: #81BCED;
+    height: auto;
+    font-size: 1.4em;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.containerSpeaker{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin:auto;
+    justify-content: center;
+}
+.titleSectionSpeaker{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media screen and (max-width: 1210px) {
+    .titleSectionSpeaker{
+        font-size: 2.2em;
+    }
+  }

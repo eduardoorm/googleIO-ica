@@ -1,0 +1,83 @@
+.containerCarousel{
+    width: 100%;
+    margin: auto;
+    padding: 0em 0em;
+    height: 30em;
+}
+
+.containerComentSpeakerItem{
+  width: 60%;
+}
+.swiper-container {
+    max-width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .swiper-slide{
+    
+  }
+  .swiper-button-next, .swiper-button-prev{
+    display: none;
+  }
+
+  .containerSwiperItem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+
+  }
+
+  .imgSpeakerSwiperItem{
+    background: url("../../assets/speakers/leonidas.jpg");
+    min-width: 15em;
+    min-height: 15em;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    margin: 1em;
+    margin-right: 4em;
+  }
+
+  .txtComentSpeakerItem{
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+  }
+  .nameSpeakerSwiper,.rolSpeakerSwiper{
+    color:#1E2A6B;
+    font-weight: 700;
+    display: block;
+    text-align: start;
+    line-height: 0.1em;
+    margin-left: 0.2em;
+  }
+  .nameSpeakerSwiper{
+    margin-top: 1.2em;
+  }
+
+
+  @media screen and (max-width: 1210px) {
+    .containerSwiperItem{
+      flex-wrap: wrap;
+      text-align: center;
+    }
+
+    .containerSwiperItem{
+      height: 100%;
+    }
+    .imgSpeakerSwiperItem{
+      margin:1em;
+    }
+    .nameSpeakerSwiper,.rolSpeakerSwiper{
+      display: none;
+    }
+    .txtComentSpeakerItem{
+      font-size: 1.5em;
+
+    }
+}

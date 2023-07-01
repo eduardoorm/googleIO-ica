@@ -1,0 +1,22 @@
+.social{
+    width: 4%;
+    height: 80px;
+}
+
+.imgLogo{
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.imgLogo:hover{
+    background-color: rgba(163, 151, 151, 0.458);
+    border-radius: 100%;
+}
+
+@media screen and (max-width: 1210px) {
+    .social{
+       width: 15%;
+    }
+  }

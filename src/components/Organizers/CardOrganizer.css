@@ -1,0 +1,29 @@
+
+.organizer{
+    width: 20%;
+    height: 160px;
+    margin:50px;
+    background-color: #E8EAED;
+    border-radius: 12px;
+}
+
+.imgOrganizer{
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 60%;
+    height: 100%;
+    margin: auto;
+}
+
+.imgOrganizer:hover{
+    cursor: pointer;
+    background-color: rgba(183, 174, 174, 0.591);
+    border-radius: 2%; 
+}
+
+@media screen and (max-width: 1210px) {
+    .organizer{
+      width: 100%; 
+    }
+}

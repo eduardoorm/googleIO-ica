@@ -1,0 +1,22 @@
+.sectionOrganizer{
+    background-color: white;
+    color: rgba(25, 25, 25, 0.976);
+    text-align: center;
+    padding-bottom: 5%;
+}
+.titleOrganizer{
+    font-size: 2.5em;
+    margin-top: 3em;
+}
+.containerOrganizers{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1210px) {
+    .titleOrganizer{
+      font-size: 2.2em;
+    }
+  }

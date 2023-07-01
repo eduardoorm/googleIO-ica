@@ -1,0 +1,37 @@
+.sectionSponsor{
+    background-color: white;
+    color: rgba(25, 25, 25, 0.976);
+    height: 100vh;
+    padding-top: 1em;
+}
+
+.titleSectionSponsor{
+    font-size: 2.5em;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.containerSponsors{
+    width: 60%;
+    height: 25em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 6%;
+ }
+
+ @media screen and (max-width: 1210px) {
+    .rangeSponsor{
+        justify-content: center;
+        width: 100%;
+        height: auto;
+    }
+    .sectionSponsor{
+        height: 135vh;
+    }
+
+  }
+
+

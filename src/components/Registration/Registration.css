@@ -1,0 +1,51 @@
+.SectionRegistation {
+  height: 100vh;
+  background-color: #81bced;
+  padding: 1% 0%;
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  color: rgba(25, 25, 25, 0.976);
+}
+
+.txtInscribete {
+}
+
+.containerRegistration {
+  margin: auto;
+  width: 80%;
+}
+.btnRegistration {
+  margin-bottom: 1.3em;
+  margin-top: 1.2em;
+}
+.btnRegistration:hover {
+  background-color: rgba(153, 141, 141, 0.452);
+}
+.btnCodeConduct:hover {
+  background-color: rgba(153, 141, 141, 0.452);
+}
+
+.btnCodeConduct {
+}
+
+.imgRegistration{
+  width: 12em;
+  height: 6.5em;
+  float: right;
+}
+
+.txtContainerRegistration{
+}
+
+@media screen and (max-width: 1210px) {
+
+  .btnRegistration,.btnCodeConduct {
+    width: 100%;
+  }
+  .imgRegistration{
+    width: 7em;
+    height: 5em;
+  }
+}

@@ -1,0 +1,76 @@
+.sectionInformationBar{
+    width: 100%;
+    overflow: hidden;
+}
+.containerInformation{
+    background-color: rgb(32, 89, 214);
+    margin-top: 6em;
+}
+
+.containerInformationBar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 5em;
+  animation: moveLeft 20s linear infinite normal;
+}
+
+.itemInformationBar {
+  color: white;
+  border: none;
+  height: 100%;
+  min-width:20em;
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerInformationBar {
+  width: 100%;
+  background-color: rgb(61, 119, 220);
+}
+
+.itemInformationBar1 {
+  background-color: rgba(255, 0, 0, 0.752);
+}
+.itemInformationBar2 {
+  background-color: rgba(0, 30, 255, 0.858);
+}
+.itemInformationBar3 {
+  background-color: rgba(255, 166, 0, 0.91);
+}
+.itemInformationBar4 {
+  background-color: rgba(0, 0, 0, 0.885);
+}
+.itemInformationBar5 {
+  background-color: rgba(255, 0, 0, 0.752);
+}
+.itemInformationBar6 {
+    background-color: rgba(0, 30, 255, 0.858);
+}
+
+.itemInformationBar7 {
+    background-color: black;
+}
+
+.itemInformationBar8 {
+    background-color: rgba(255, 0, 0, 0.752);
+}
+
+.itemInformationBar9 {
+    background-color: rgba(255, 166, 0, 0.91);
+}
+
+.itemInformationBar10 {
+    background-color: rgba(0, 30, 255, 0.858);
+}
+
+@keyframes moveLeft {
+    0%{
+        transform: translateX(0%);
+    }
+    100%{
+        transform: translate(-100%);
+    }
+}

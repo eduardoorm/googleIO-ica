@@ -1,0 +1,73 @@
+.containerImageSponsor{
+    width: 32%;
+    height: 10em;
+  color: rgba(25, 25, 25, 0.976);
+
+}
+
+.imgSponsor{
+    margin: auto;
+    height: 70%;
+    width: 60%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    text-decoration: none;
+}
+
+.rangeSponsor{
+    width: 100%;
+    display:flex;
+    justify-content: end;
+    align-items: flex-start;
+    color: white;
+}
+.txtRangeSponsor{
+    padding: 1em;
+    margin-top: auto;
+    height: 100%;
+    margin-right: 0px;
+    border-radius: 5px 0px 8px 0px;
+    background-color: black;
+}
+.containerImageSponsor{
+    background-color: #E8EAED;
+    border-radius: 12px;
+    border-bottom: 8px solid rgb(1, 5, 16);
+    margin-bottom: 1.3em;
+}
+.containerImageSponsor:hover{
+    cursor: pointer;
+    background-color: rgba(183, 174, 174, 0.591);
+}
+
+.containerSponsors >  .containerImageSponsor:nth-child(1){
+}
+
+.containerSponsors > .containerImageSponsor:nth-child(1) > a > .imgSponsor{
+  background-size: contain;
+  width: 50%;
+}
+
+.containerSponsors > .containerImageSponsor:nth-child(2) > a >.imgSponsor{
+    background-size: contain;
+  }
+
+@media screen and (max-width: 1210px) {
+    .containerImageSponsor{
+      width: 80%; 
+    }
+    .txtRangeSponsor{
+        width: 100%;
+        text-align: center;
+        border-radius: 0px 0px 8px 8px;
+        padding: 0.9em;
+    }
+    .titleSectionSponsor{
+        font-size: 2em;
+    }
+
+}

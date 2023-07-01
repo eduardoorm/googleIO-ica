@@ -1,0 +1,58 @@
+.sectionBenefit>h1{
+    margin-top: 4em;
+    margin-bottom: 2em;
+    font-size: 2.5em;
+    color: rgba(25, 25, 25, 0.976);
+}
+.containerBenefits{
+    width: 83%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:#81bced ;
+    font-size: 1.0em;
+    padding: 3em 0em;
+}
+
+.containerBenefitItem{
+    width: 35%;
+    height: 10em;
+    overflow: hidden;
+    margin:1em;
+    padding: 2em;
+    border:1px solid rgba(0, 0, 0, 0.259);
+    border-radius: 3px;
+    background-color: white;
+    text-align: justify;
+}
+
+.txtTileBenefit{
+    font-weight: 700;
+    font-size: 1.4em;
+}
+
+.imgTitleBenefit{
+    background: url(../../assets/laptop.png);
+    width: 2em;
+    height: 2em;
+    background-size: contain;
+    background-position: center;
+    margin-right: 0.5em;
+}
+
+.containerTitleBenefit{
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 1210px) {
+    .containerBenefitItem{
+      width: 100%;
+      padding: 1em;
+      font-size: 0.8em;
+      height: auto;
+    }
+
+}

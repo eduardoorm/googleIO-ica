@@ -1,0 +1,80 @@
+.sectionPlaceEvent{
+    height: 80vh;
+    background-color: white;
+    padding: 1em 0em;
+}
+.sectionPlaceEvent > h1{
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 3em;
+    margin-bottom: 1.3em;
+    color: rgba(25, 25, 25, 0.976);
+}
+.containerPlaceEvent{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 60%;
+}
+
+.containerDetailPlaceEvent{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1em;
+}
+
+.imgPlaceEvent{
+    margin:1em;
+    border-radius: 0.3em;
+    width: 50%;
+    background: url(../../assets/utp.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imgDirectionEvent{
+    width: 2em;
+    height: 2em;
+    background: url(../../assets/ubication.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.containerDirectionEvent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerTxtDirectionEvent{
+    font-size: 2em;
+    font-weight: 700;
+    margin-left: 0.3em;
+}
+.mapPlaceEvent{ 
+    width: 100%;
+    height: 80%;
+}
+
+.mapPlaceEvent > iframe{
+    width:100%;
+    height:100%;
+    border:none;
+}
+
+@media screen and (max-width: 1210px) {
+    .containerDetailPlaceEvent{
+      width: 100%;
+    }
+
+    .imgPlaceEvent{
+        width: 100%;
+    }
+
+}

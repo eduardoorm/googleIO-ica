@@ -1,0 +1,41 @@
+.sectionFooter{
+    background-color: #81BCED;
+    height: auto;
+    font-size: 1.4em;
+    color: rgba(25, 25, 25, 0.976);
+    padding-top: 5%;
+    text-align: center;
+}
+
+.titleContact{
+    font-size: 2.3em;
+}
+
+.containerSocial{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.credits{
+    margin-top: 15%;
+    height: 80px;
+    width: 100%;
+    background-color: #1E2A6B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 20px;
+}
+
+.credits > p >a {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1210px) {
+    .titleContact{
+        font-size: 2.0em;
+    }
+  }

@@ -1,0 +1,116 @@
+.containerItemsSchedule {
+  width: 100%;
+  width: 79%;
+  margin: auto;
+}
+
+.containerItemSchedule {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 6em;
+  margin: 2em 4em;
+}
+.containerDateHourItemSchedule {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  width: 9%;
+  background-color: #e8eaed;
+  border-radius: 6px;
+  padding: 0.4em;
+}
+.hourItemSchedule,
+.dateItemSchedule {
+  display: block;
+  width: 100%;
+  text-align: end;
+}
+.dateItemSchedule {
+  font-size: 0.7em;
+}
+
+.containerHourItemSchedule,
+.containerDateItemSchedule {
+  width: 100%;
+  text-align: end;
+}
+.sessionInformationItemSchedule {
+  border-radius: 8px;
+  background-color: #e8eaed;
+  width: 86%;
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  border-left: 5px solid green;
+}
+.nameSpeakerItemSchedule {
+  font-size: 0.8em;
+}
+
+.imgSpeakerItemSchedule {
+  width: 7%;
+  height: 80%;
+  margin: auto 0px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-right: 2%;
+  border-radius: 100%;
+}
+
+.containenButtonsDay {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.containerSchedule > h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 3em;
+}
+
+.btnDays {
+  width: 8em;
+  font-size: 1em;
+  margin: 0.7em;
+  background-color: #81bced;
+  color: black;
+}
+
+.btnDays:hover {
+  background-color: rgb(228, 225, 225);
+}
+
+@media screen and (max-width: 1210px) {
+    .containerItemSchedule {
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .containerDateHourItemSchedule{
+        width: 100%;
+        margin-bottom: 0.3em;
+    }
+    .hourItemSchedule,.dateItemSchedule{
+        text-align: center;
+    }
+    .sessionInformationItemSchedule{
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+    }
+    .containerItemSchedule{
+        margin: 1em;
+    }
+    .imgSpeakerItemSchedule{
+      min-width: 10em;
+      height: 10em;
+
+    }
+    .titleSessionItemSchedule{
+
+    }
+}

@@ -1,0 +1,29 @@
+.sectionTheme{
+    padding: 1em;
+    background-color: #81bced;
+}
+.containerThemes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.containerThemeItem{
+    background: url(../../assets/backgroundFluterTheme.png);
+    background-size: cover;
+    min-width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
+
+.txtTheme{
+    color: white;
+    font-size: 5em;
+    
+}
+
