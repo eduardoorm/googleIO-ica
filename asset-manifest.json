@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FlutterSchool/static/css/main.68aab744.css",
+    "main.js": "/FlutterSchool/static/js/main.bb375ee1.js",
+    "static/media/dashBackground.png": "/FlutterSchool/static/media/dashBackground.37ea430a3858c7a8668d.png",
+    "static/media/dashMovil.png": "/FlutterSchool/static/media/dashMovil.75327be79bb44f1a3c46.png",
+    "static/media/logoDash.png": "/FlutterSchool/static/media/logoDash.780e0e64d323aad2cdd5.png",
+    "static/media/jetBrainsLogo.png": "/FlutterSchool/static/media/jetBrainsLogo.00ac2802f6d9a13779bb.png",
+    "static/media/backgroundFluterTheme.png": "/FlutterSchool/static/media/backgroundFluterTheme.163233442263bebabb24.png",
+    "static/media/pierreGuillen.jpg": "/FlutterSchool/static/media/pierreGuillen.af71292a93ec2743db22.jpg",
+    "static/media/utp.jpg": "/FlutterSchool/static/media/utp.995517df0e497bead923.jpg",
+    "static/media/github.png": "/FlutterSchool/static/media/github.1ccf2c0eeea54cfebc3a.png",
+    "static/media/leonidas.jpg": "/FlutterSchool/static/media/leonidas.94a001071598010c6871.jpg",
+    "static/media/flutterIcaLigth.png": "/FlutterSchool/static/media/flutterIcaLigth.d85b494c617f4dd3ed4f.png",
+    "static/media/midudev.jpg": "/FlutterSchool/static/media/midudev.2cd0e8295f81a3d6bc6b.jpg",
+    "index.html": "/FlutterSchool/index.html",
+    "main.68aab744.css.map": "/FlutterSchool/static/css/main.68aab744.css.map",
+    "main.bb375ee1.js.map": "/FlutterSchool/static/js/main.bb375ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68aab744.css",
+    "static/js/main.bb375ee1.js"
+  ]
+}
