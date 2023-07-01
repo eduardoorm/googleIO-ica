@@ -19,11 +19,12 @@
 }
 
 .imgFlutter{
-    background-image: url(../../assets/imgGoogleIOBlack.jpg);
+    background-image: url(../../assets/googleIoConference.jpg);
     background-size: cover;
     background-position: center;
     height: 40vh;
     width: 50vh;
+    border-radius: 0.5em;
 }
 
 @media screen and (max-width: 1210px) {
