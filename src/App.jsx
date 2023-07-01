@@ -23,12 +23,10 @@ function App() {
       <Schedule />
       <Place />
       <InformationBar />
-
       <Benefit />
       <Tweet />
       <Registration />
       <Organizer />
-
       <Sponsor />
       <Footer />
     </div>
