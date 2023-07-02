@@ -63,8 +63,8 @@ body {
 .dashLogo {
   width: 100%;
   height: 100%;
-  background-image: url(../../assets/logoIOica.png);
-  background-size: cover;
+  background-image: url(../../assets/logoIOExtended.png);
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
