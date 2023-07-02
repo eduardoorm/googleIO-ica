@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/googleIO-ica/static/css/main.399371dd.css",
-    "main.js": "/googleIO-ica/static/js/main.124db836.js",
+    "main.css": "/googleIO-ica/static/css/main.061e0420.css",
+    "main.js": "/googleIO-ica/static/js/main.ee1f008f.js",
     "static/media/logoDash.png": "/googleIO-ica/static/media/logoDash.780e0e64d323aad2cdd5.png",
     "static/media/jetBrainsLogo.png": "/googleIO-ica/static/media/jetBrainsLogo.00ac2802f6d9a13779bb.png",
     "static/media/backgroundFluterTheme.png": "/googleIO-ica/static/media/backgroundFluterTheme.163233442263bebabb24.png",
@@ -9,7 +9,6 @@
     "static/media/googleIoConference.jpg": "/googleIO-ica/static/media/googleIoConference.562d21372cd7cf0d2dc3.jpg",
     "static/media/test.png": "/googleIO-ica/static/media/test.96ce03d5cc843722ac96.png",
     "static/media/pierreGuillen.jpg": "/googleIO-ica/static/media/pierreGuillen.af71292a93ec2743db22.jpg",
-    "static/media/logoIOica.png": "/googleIO-ica/static/media/logoIOica.0c0989970ee3ab06da14.png",
     "static/media/colegioIngenieros.jpg": "/googleIO-ica/static/media/colegioIngenieros.0a2b23847e38037fbbf6.jpg",
     "static/media/joseCarlos.jpg": "/googleIO-ica/static/media/joseCarlos.fdb93c2b4fc640170f60.jpg",
     "static/media/github.png": "/googleIO-ica/static/media/github.1ccf2c0eeea54cfebc3a.png",
@@ -18,11 +17,11 @@
     "static/media/midudev.jpg": "/googleIO-ica/static/media/midudev.2cd0e8295f81a3d6bc6b.jpg",
     "static/media/instagram.png": "/googleIO-ica/static/media/instagram.bc603acad2a8cb3bd098.png",
     "index.html": "/googleIO-ica/index.html",
-    "main.399371dd.css.map": "/googleIO-ica/static/css/main.399371dd.css.map",
-    "main.124db836.js.map": "/googleIO-ica/static/js/main.124db836.js.map"
+    "main.061e0420.css.map": "/googleIO-ica/static/css/main.061e0420.css.map",
+    "main.ee1f008f.js.map": "/googleIO-ica/static/js/main.ee1f008f.js.map"
   },
   "entrypoints": [
-    "static/css/main.399371dd.css",
-    "static/js/main.124db836.js"
+    "static/css/main.061e0420.css",
+    "static/js/main.ee1f008f.js"
   ]
 }
