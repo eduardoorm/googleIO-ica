@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/googleIO-ica/static/css/main.061e0420.css",
-    "main.js": "/googleIO-ica/static/js/main.c5ceb84c.js",
+    "main.css": "/googleIO-ica/static/css/main.65070fde.css",
+    "main.js": "/googleIO-ica/static/js/main.8b9d9c27.js",
     "static/media/logoDash.png": "/googleIO-ica/static/media/logoDash.780e0e64d323aad2cdd5.png",
     "static/media/jetBrainsLogo.png": "/googleIO-ica/static/media/jetBrainsLogo.00ac2802f6d9a13779bb.png",
     "static/media/backgroundFluterTheme.png": "/googleIO-ica/static/media/backgroundFluterTheme.163233442263bebabb24.png",
@@ -15,13 +15,14 @@
     "static/media/leonidas.jpg": "/googleIO-ica/static/media/leonidas.94a001071598010c6871.jpg",
     "static/media/flutterIcaLigth.png": "/googleIO-ica/static/media/flutterIcaLigth.d85b494c617f4dd3ed4f.png",
     "static/media/midudev.jpg": "/googleIO-ica/static/media/midudev.2cd0e8295f81a3d6bc6b.jpg",
+    "static/media/rafaelGonzales.jpg": "/googleIO-ica/static/media/rafaelGonzales.66b38825991fcae4a025.jpg",
     "static/media/instagram.png": "/googleIO-ica/static/media/instagram.bc603acad2a8cb3bd098.png",
     "index.html": "/googleIO-ica/index.html",
-    "main.061e0420.css.map": "/googleIO-ica/static/css/main.061e0420.css.map",
-    "main.c5ceb84c.js.map": "/googleIO-ica/static/js/main.c5ceb84c.js.map"
+    "main.65070fde.css.map": "/googleIO-ica/static/css/main.65070fde.css.map",
+    "main.8b9d9c27.js.map": "/googleIO-ica/static/js/main.8b9d9c27.js.map"
   },
   "entrypoints": [
-    "static/css/main.061e0420.css",
-    "static/js/main.c5ceb84c.js"
+    "static/css/main.65070fde.css",
+    "static/js/main.8b9d9c27.js"
   ]
 }
