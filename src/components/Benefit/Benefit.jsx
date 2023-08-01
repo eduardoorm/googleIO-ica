@@ -9,7 +9,7 @@ const Benefit = () => {
         <ItemBenefit
           titleBenefit={"Últimas novedades"}
           description={
-            "El evento brinda a los asistentes acceso directo a conocimientos actualizados sobre tecnología, desarrollo personal y habilidades blandas. Esto asegura que los asistentes se mantenga al día con las últimas tendencias y mejores prácticas en estos campos en constante evolución."
+            "El evento brinda a los participantes acceso directo a conocimientos actualizados sobre tecnología, desarrollo personal y habilidades blandas. Esto asegura que los asistentes se mantenga al día con las últimas tendencias y mejores prácticas en estos campos en constante evolución."
           }
         ></ItemBenefit>
         <ItemBenefit
