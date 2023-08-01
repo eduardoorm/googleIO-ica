@@ -19,12 +19,10 @@ function App() {
     <div>
       <Header />
       <About />
-      <Carousel></Carousel>
       <Schedule />
       <Place />
       <InformationBar />
       <Benefit />
-      <Tweet />
       <Registration />
       <Organizer />
       <Sponsor />

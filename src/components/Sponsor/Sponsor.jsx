@@ -11,9 +11,6 @@ const Sponsor = () => {
       <div className="sectionSponsor">
         <h1 className="titleSectionSponsor">Patrocinado Por</h1>
         <div className="containerSponsors">
-          <CardSponsor imageUrl={githubSponsor} href={'https://github.com/'} />
-          <CardSponsor imageUrl={jetBrainsSponsor}  href={'https://www.jetbrains.com/'} />
-          <CardSponsor imageUrl={oreillySponsor}  href={'https://www.oreilly.com/'} />
           <CardSponsor imageUrl={googleDevelopers}  href={'https://developers.google.com/'} />
         </div>
       </div>
