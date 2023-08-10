@@ -13,6 +13,7 @@ const Sponsor = () => {
         <div className="containerSponsors">
           <CardSponsor imageUrl={googleDevelopers}  href={'https://developers.google.com/'} />
           <CardSponsor imageUrl={githubSponsor}   href={'https://github.com/'} />
+          <CardSponsor imageUrl={jetBrainsSponsor}   href={'https://www.jetbrains.com/'} />
 
         </div>
       </div>
