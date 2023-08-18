@@ -12,16 +12,17 @@
 }
 .containerSponsors{
     width: 60%;
-    height: 25em;
+    /* aumente 10em al height */
+    height: 30em;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     margin: auto;
     margin-top: 6%;
- }
+}
 
- @media screen and (max-width: 1210px) {
+@media screen and (max-width: 1210px) {
     .rangeSponsor{
         justify-content: center;
         width: 100%;
@@ -30,7 +31,6 @@
     .sectionSponsor{
         height: 135vh;
     }
-
-  }
+}
 
 

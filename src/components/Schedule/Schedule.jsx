@@ -6,6 +6,7 @@ import imgDiego from "../../assets/speakers/diegoDeGranda.jpg";
 import imgSebastian from "../../assets/speakers/sebastiaGomez.jpg";
 import imgJose from "../../assets/speakers/joseCarlos.jpg";
 import imgRafael from "../../assets/speakers/rafaelGonzales.jpg";
+import imgYancel from "../../assets/speakers/yancelSalinas.jpg";
 import ItemScheduleSpeakerText from "./ItemScheduleSpeakerText";
 import ItemScheduleText from "./ItemScheduleText";
 const Schedule = () => {
@@ -16,34 +17,48 @@ const Schedule = () => {
         <div className="containenButtonsDay">
         </div>
           <div className="containerItemsSchedule">
+            <ItemScheduleText
+              backgroundSolid={"#F4B400"}
+              backgroundLight={"#FAEDC9"}
+              hours={"9:30 AM"}
+              dateSession={"AGT 06"}
+              titleSession={"Bienvenida al Google I/O Extended Ica."}
+            />
             <ItemScheduleSpeakerText
               backgroundSolid={"#DB4437"}
               imageUrl={imgPierre}
-              hours={"9:30 AM"}
+              hours={"9:40 AM"}
               dateSession={"AGT 06"}
               titleSession={"Introducción al desarrollo móvil con Flutter."}
               nameSpeaker={"Pierre Guillen"}
             />
+            <ItemScheduleText
+              backgroundSolid={"#F4B400"}
+              backgroundLight={"#FAEDC9"}
+              hours={"10:25 AM"}
+              dateSession={"AGT 06"}
+              titleSession={"Break & Networking time."}
+            />
             <ItemScheduleSpeakerText
               backgroundSolid={"#4285F4"}
               imageUrl={imgJose}
-              hours={"10:15 AM"}
+              hours={"11:10 AM"}
               dateSession={"AGT 06"}
               titleSession={"Primeros pasos en Notion."}
               nameSpeaker={"JoseCarlos"}
             />
             <ItemScheduleSpeakerText
-              backgroundSolid={"#DB4437"}
+              backgroundSolid={"#0F9D56"}
               imageUrl={imgRafael}
-              hours={"11:00 AM"}
+              hours={"11:55 AM"}
               dateSession={"AGT 06"}
               titleSession={"Inspirándonos en culturas prehispánicas para crear videojuegos de éxito."}
               nameSpeaker={"Rafael Gonzales Otoya"}
             />
-              <ItemScheduleSpeakerText
-              backgroundSolid={"#0F9D56"}
+            <ItemScheduleSpeakerText
+              backgroundSolid={"#DB4437"}
               imageUrl={imgSebastian}
-              hours={"11:45 AM"}
+              hours={"12:40 AM"}
               dateSession={"AGT 06"}
               titleSession={"Aprende a desarrollar para la web utilizando todas las herramientas que google tiene para ti."}
               nameSpeaker={"Sebastián Gomez"}
@@ -51,9 +66,24 @@ const Schedule = () => {
             <ItemScheduleText
               backgroundSolid={"#F4B400"}
               backgroundLight={"#FAEDC9"}
-              hours={"12:30 PM"}
+              hours={"13:25 PM"}
               dateSession={"AGT 06"}
-              titleSession={"Cierre del Google IO Ica 2023"}
+              titleSession={"Break & Pizza."}
+            />
+            <ItemScheduleSpeakerText
+              backgroundSolid={"#4285F4"}
+              imageUrl={imgYancel}
+              hours={"14:10 PM"}
+              dateSession={"AGT 06"}
+              titleSession={"Introducción a la inteligencia artificial."}
+              nameSpeaker={"Yancel Salinas"}
+            />
+            <ItemScheduleText
+              backgroundSolid={"#F4B400"}
+              backgroundLight={"#FAEDC9"}
+              hours={"14:55 PM"}
+              dateSession={"AGT 06"}
+              titleSession={"Cierre del Google IO Ica 2023."}
             />
           </div>
       </div>
