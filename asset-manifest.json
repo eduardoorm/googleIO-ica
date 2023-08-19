@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/googleIO-ica/static/css/main.c39c7709.css",
-    "main.js": "/googleIO-ica/static/js/main.92fad057.js",
+    "main.css": "/googleIO-ica/static/css/main.167a501a.css",
+    "main.js": "/googleIO-ica/static/js/main.02074887.js",
+    "static/media/systematicLogo.png": "/googleIO-ica/static/media/systematicLogo.283d93848de997b90de4.png",
     "static/media/auditorio.jpg": "/googleIO-ica/static/media/auditorio.5b427ad0fe619896306b.jpg",
     "static/media/logoDash.png": "/googleIO-ica/static/media/logoDash.780e0e64d323aad2cdd5.png",
     "static/media/jetBrainsLogo.png": "/googleIO-ica/static/media/jetBrainsLogo.00ac2802f6d9a13779bb.png",
+    "static/media/lunaStarLogo.jpg": "/googleIO-ica/static/media/lunaStarLogo.91213e67523a0a02b07f.jpg",
     "static/media/backgroundFluterTheme.png": "/googleIO-ica/static/media/backgroundFluterTheme.163233442263bebabb24.png",
     "static/media/diegoDeGranda.jpg": "/googleIO-ica/static/media/diegoDeGranda.e1ccd2e29c8cbd2d55cc.jpg",
     "static/media/googleIoConference.jpg": "/googleIO-ica/static/media/googleIoConference.562d21372cd7cf0d2dc3.jpg",
+    "static/media/yancelSalinas.jpg": "/googleIO-ica/static/media/yancelSalinas.f4bdf0054c9a3ab8ee05.jpg",
     "static/media/test.png": "/googleIO-ica/static/media/test.96ce03d5cc843722ac96.png",
     "static/media/pierreGuillen.jpg": "/googleIO-ica/static/media/pierreGuillen.af71292a93ec2743db22.jpg",
+    "static/media/googleLogo.png": "/googleIO-ica/static/media/googleLogo.8c6fdfd1e0895e164ec1.png",
+    "static/media/impulseOn.png": "/googleIO-ica/static/media/impulseOn.a7aa8ed3ea9929429d0c.png",
     "static/media/joseCarlos.jpg": "/googleIO-ica/static/media/joseCarlos.fdb93c2b4fc640170f60.jpg",
     "static/media/github.png": "/googleIO-ica/static/media/github.1ccf2c0eeea54cfebc3a.png",
     "static/media/leonidas.jpg": "/googleIO-ica/static/media/leonidas.94a001071598010c6871.jpg",
@@ -18,11 +23,11 @@
     "static/media/rafaelGonzales.jpg": "/googleIO-ica/static/media/rafaelGonzales.66b38825991fcae4a025.jpg",
     "static/media/instagram.png": "/googleIO-ica/static/media/instagram.bc603acad2a8cb3bd098.png",
     "index.html": "/googleIO-ica/index.html",
-    "main.c39c7709.css.map": "/googleIO-ica/static/css/main.c39c7709.css.map",
-    "main.92fad057.js.map": "/googleIO-ica/static/js/main.92fad057.js.map"
+    "main.167a501a.css.map": "/googleIO-ica/static/css/main.167a501a.css.map",
+    "main.02074887.js.map": "/googleIO-ica/static/js/main.02074887.js.map"
   },
   "entrypoints": [
-    "static/css/main.c39c7709.css",
-    "static/js/main.92fad057.js"
+    "static/css/main.167a501a.css",
+    "static/js/main.02074887.js"
   ]
 }
