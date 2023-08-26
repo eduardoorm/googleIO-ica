@@ -10,7 +10,8 @@ import impulseOn from "../../assets/sponsor/impulseOn.png";
 import systematic from "../../assets/sponsor/systematicLogo.png";
 import google from "../../assets/sponsor/googleLogo.png";
 import lunaStar from "../../assets/sponsor/lunaStarLogo.jpg";
-
+import meelCakes from "../../assets/sponsor/mel.png";
+import noelia from "../../assets/sponsor/noe.png";
 const Sponsor = () => {
   return (
     <section id="partner">
@@ -21,9 +22,12 @@ const Sponsor = () => {
           <CardSponsor imageUrl={githubSponsor}   href={'https://github.com/'} />
           <CardSponsor imageUrl={jetBrainsSponsor}   href={'https://www.jetbrains.com/'} />
           <CardSponsor imageUrl={impulseOn}   href={'https://impulseon.tech/'} />
-          <CardSponsor imageUrl={systematic}   href={'https://impulseon.tech/'} />
-          <CardSponsor imageUrl={google}   href={'https://impulseon.tech/'} />
+          <CardSponsor imageUrl={systematic}   href={'https://systematic.edu.pe/'} />
+          <CardSponsor imageUrl={google}   href={'https://google.com/'} />
           <CardSponsor imageUrl={lunaStar}   href={'https://www.facebook.com/profile.php?id=100069238292693'} />
+          <CardSponsor imageUrl={meelCakes}   href={'https://www.facebook.com/meelcakes.r'} />
+          <CardSponsor imageUrl={noelia}   href={'https://www.facebook.com/chocolaterianoelia'} />
+          
         </div>
       </div>
     </section>
